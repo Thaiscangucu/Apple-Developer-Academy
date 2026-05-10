@@ -85,10 +85,15 @@ Each emotion maps to a dictionary of songs in `Songs.swift`, and one is picked r
 
 ---
 
-## What We Learned
+## Authors
+Camila Ruiz Toniato
 
-- Integrating **Core ML** and **Vision** framework into a SwiftUI app
-- Using `PhotosPicker` to handle image selection
-- Embedding a **YouTube player** inside SwiftUI via `UIViewRepresentable` and `WKWebView`
-- Passing data between views with `@Binding`
-- Registering and using custom fonts in an iOS project
+Enzo Ferroni
+
+Gustavo Pinotti
+
+Tamires Mendes
+
+Thais Canguçu
+
+Yasmin Mendes
