@@ -50,4 +50,4 @@ Throughout these projects, advanced iOS and visionOS development concepts were a
 
 iOS Developer focused on creating intuitive interfaces and solutions that generate a positive social impact. Computer Science student at Mackenzie Presbyterian University and member of the Apple Developer Academy.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaiscangucu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-canguçu-0474392b6/?skipRedirect=true)
