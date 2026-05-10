@@ -73,11 +73,8 @@ Gameboxd/
 
 ---
 
-## What We Learned
+## Authors 
 
-- Building multi-tab navigation with `TabView` and `NavigationStack`
-- Creating reusable SwiftUI components
-- Working with `ScrollView` (vertical and horizontal)
-- Using `Swift Charts` for data visualization
-- Applying custom fonts in SwiftUI
-- Layout techniques with `HStack`, `VStack`, `ZStack`, and `GeometryReader`
+Thais Ferreira Canguçu
+
+André Contarelli Lima
