@@ -1,26 +1,18 @@
-# Apple Developer Academy | Mackenzie
+# Apple Developer Academy — Mackenzie
 
-This repository gathers the projects I developed during my journey as a student at the Apple Developer Academy at Mackenzie. The main focus is the development of innovative solutions using the Apple ecosystem, exploring everything from programmatic interfaces in UIKit to immersive spatial computing experiences.
+Projects developed at the **Apple Developer Academy Mackenzie**, exploring iOS development, Swift, SpriteKit, SwiftUI, and human-centered design.
 
----
-
-## Featured Projects
-
-Below is a list of the main projects included in this repository, each focusing on different technologies and software engineering challenges:
-
-## Technical Skills Developed
-
-Throughout these projects, advanced iOS development concepts were applied, including:
-
-* **Language:** Swift (Swift Concurrency and MainActor isolation).
-* **Architecture & UI:** SwiftUI, UIKit (ViewCode), MVVM, and Gestalt Principles.
-* **System Frameworks:** CoreData for persistence.
-* **User Experience:** Accessibility-first design, Haptic Feedback, and Spatial Computing.
+**Developer:** Thais Canguçu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaiscangucu)
 
 ---
 
-## About the Author
+## Projects
 
-iOS Developer focused on creating intuitive interfaces and solutions that generate a positive social impact. Computer Science student at Mackenzie Presbyterian University and member of the Apple Developer Academy.
+| # | Project | Type | Stack | App Store |
+|---|---------|------|-------|-----------|
+| 1 | [Terminal Typing](#terminal-typing-️) | Terminal Game | Swift, AVFoundation | — |
+| 2 | [JAT Data](#jat-data-) | iOS App | SwiftUI, Core Data | [Download](https://apps.apple.com/br/app/jat-data/id6747201031) |
+| 3 | [Habits — Improve](#habits--improve-) | iOS App | SwiftUI, Core Data | [Download](https://lnkd.in/eDsYAZxu) |
+| 4 | [Moony](#moony-) | iOS App | SpriteKit, CoreHaptics, Core Data | [Download](https://lnkd.in/gyQySHMg) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-canguçu-0474392b6/?skipRedirect=true)
