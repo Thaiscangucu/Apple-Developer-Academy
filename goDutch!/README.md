@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/icon.png" alt="goDutch! app icon" width="120"/>
+  <img src="assets/Icone_goDutch2.png" alt="goDutch! app icon" width="120"/>
 </p>
 
 <h1 align="center">goDutch!</h1>
@@ -61,7 +61,7 @@ This is my **fourth app published on the App Store**, developed at the **Apple D
       <img src="assets/screenshot-1.png" alt="Adding friends as emoji bubbles" width="190"/>
     </td>
     <td align="center" width="25%">
-      <img src="assets/screenshot-2.png" alt="Scanning the receipt" width="190"/>
+      <img src="assets/screenshot-2.jpg" alt="Scanning the receipt" width="190"/>
     </td>
     <td align="center" width="25%">
       <img src="assets/screenshot-3.png" alt="Dragging friends onto the items they shared" width="190"/>
