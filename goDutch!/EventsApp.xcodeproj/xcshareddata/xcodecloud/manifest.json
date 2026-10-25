@@ -1,0 +1,9 @@
+{
+  "id" : "8fe3ac08-c2b6-4742-ac0d-1f0e64dc62bd",
+  "targets" : [
+    {
+      "id" : "2EE119E4-F03F-4EEC-ACE0-FCB0226AE9E1",
+      "name" : "EventsApp"
+    }
+  ]
+}
