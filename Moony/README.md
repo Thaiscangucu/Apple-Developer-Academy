@@ -108,4 +108,4 @@ Each environment starts with the first object available. The child drags copies 
 - Creating custom **haptic feedback** patterns with `CoreHaptics`
 - Supporting **Assistive Access** — Apple's simplified UI mode for users with cognitive disabilities
 - Designing for **accessibility and neurodivergent users** from the ground up
-- Coordinating a multi-person team project over 9 weeks with Agile practices
+- Coordinating a multi-person team project over 5 weeks with Agile practices
