@@ -1,4 +1,4 @@
-# Apple Developer Academy — Mackenzie
+# Apple Developer Academy | Mackenzie
 
 Projects developed at the **Apple Developer Academy | Mackenzie**, exploring iOS development, Swift, SwiftUI, UIKit, SpriteKit, Apple Intelligence, accessibility and human-centered design.
 
