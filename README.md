@@ -15,4 +15,5 @@ Projects developed at the **Apple Developer Academy Mackenzie**, exploring iOS d
 | 2 | [JAT Data](#jat-data-) | iOS App | SwiftUI, Core Data | [Download](https://apps.apple.com/br/app/jat-data/id6747201031) |
 | 3 | [Habits — Improve](#habits--improve-) | iOS App | SwiftUI, Core Data | [Download](https://lnkd.in/eDsYAZxu) |
 | 4 | [Moony](#moony-) | iOS App | SpriteKit, CoreHaptics, Core Data | [Download](https://lnkd.in/gyQySHMg) |
-
+| 5 | Kid Task | iOS App | SwiftUI, Core Data, AVFoundation | TestFlight (beta) |
+| 6 | Articula | iOS App | UIKit, Core Motion, Core Data | TestFlight (beta) |
